@@ -15,9 +15,6 @@ Banco **MySQL 8** (`db_xepa`) do Xepa+, a plataforma que conecta feirantes com s
 | [`03-seed-feiras.sql`](03-seed-feiras.sql) | Feiras livres reais de São Paulo |
 | [`04-seed-demo.sql`](04-seed-demo.sql) | Dados **fictícios** para demonstração |
 | [`05-limpar-demo.sql`](05-limpar-demo.sql) | Apaga só os dados fictícios do `04` |
-| [`scripts/gerar_seed_demo.py`](scripts/gerar_seed_demo.py) | Gera o `04` e o `05` |
-
-Os scripts `01`, `02`, `03` e `05` podem ser rodados de novo sem problema. Para rodar o `04` de novo, rode o `05` antes.
 
 ## Como rodar
 

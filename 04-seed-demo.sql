@@ -1,5 +1,5 @@
 -- =====================================================================
--- Xepa+ | 04-seed-demo.sql   (GERADO por scripts/gerar_seed_demo.py, não edite à mão)
+-- Xepa+ | 04-seed-demo.sql
 -- Dados FICTÍCIOS que simulam o piloto do Xepa+ na Freguesia do Ó, Brasilândia
 -- e Pirituba: 10 feirantes, 30 consumidores, produtos, xepas, pedidos, pagamentos,
 -- financeiro, conversas e avaliações.

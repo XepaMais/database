@@ -1,5 +1,5 @@
 -- =====================================================================
--- Xepa+ | 05-limpar-demo.sql   (GERADO por scripts/gerar_seed_demo.py)
+-- Xepa+ | 05-limpar-demo.sql
 -- Apaga SÓ os dados fictícios do 04-seed-demo.sql (contas @demo.xepamais.com.br
 -- e tudo ligado a elas). Contas reais não são tocadas.
 -- =====================================================================
